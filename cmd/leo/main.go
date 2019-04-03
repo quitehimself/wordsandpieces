@@ -8,7 +8,7 @@ import (
 	"math/rand"
 	"os"
 
-	"wordsandpieces"
+	"github.com/quitehimself/wordsandpieces"
 )
 
 var wordFlag bool
